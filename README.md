@@ -3,7 +3,9 @@
 <p align="center"> <img src="./Banner.png" /></p>
 
 <p align="center">
-    <a href="#sobre">Sobre</a>  |     
+    <a href="#sobre">Sobre</a>  |
+    <a href="#backlog">Backlog</a>  |
+    <a href="#userstorie">User Stories</a>  |
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>  |  
     <a href="#final">Apresentação Final</a>
