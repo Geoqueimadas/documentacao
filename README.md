@@ -19,7 +19,17 @@ A partir do desafio proposto do projeto interdisciplinar no 2º semestre do curs
 
 :pushpin: Status do Projeto: 🚧: **Em andamento** 🚧
 
-→ [Voltar ao topo](#topo)
+<span id="backlog">
+
+## Backlog
+
+<br/>
+
+<div align="center">
+    <img width="700px" src="./backlogRequisitos.png" />
+</div>
+
+
 
 <span id="tecnologias">
 
@@ -35,7 +45,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-→ [Voltar ao topo](#topo)
+
 
 <span id="equipe">
 
@@ -49,7 +59,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 | Rafael Malaquias Chioca | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelchioca/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelchioca) |
 
 
-→ [Voltar ao topo](#topo)
 
 <span id="final">
 
