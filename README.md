@@ -44,6 +44,10 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 ![Tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Express](https://img.shields.io/badge/Express-F24E1E?style=for-the-badge&logo=express&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-F24E1E?style=for-the-badge&logo=nodejs&logoColor=white)
+![Behance](https://img.shields.io/badge/Behance-F24E1E?style=for-the-badge&logo=behance&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJs-F24E1E?style=for-the-badge&logo=nextjs&logoColor=white)
 
 
 
