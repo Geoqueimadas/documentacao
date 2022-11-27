@@ -1,6 +1,6 @@
 <br id="topo">
 
-<p align="center"> <img src="./BannerGeoQueimadas.png" /></p>
+<p align="center"> <img src="./bannerGeoQueimadas.png" /></p>
 
 <p align="center">
     <a href="#sobre">Sobre</a>  |
