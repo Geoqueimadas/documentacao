@@ -26,7 +26,7 @@ A partir do desafio proposto do projeto interdisciplinar no 2º semestre do curs
 <br/>
 
 <div align="center">
-    <img width="700px" src="./backlogRequisitos.png" />
+    <img width="700px" src="./BacklogRequisitos.png" />
 </div>
 
 
