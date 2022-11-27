@@ -46,7 +46,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Express](	https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Behance](https://img.shields.io/badge/Behance-5551ff?style=for-the-badge&logo=behance&logoColor=blue)
+![Behance](https://img.shields.io/badge/Behance-5551ff?style=for-the-badge&logo=behance&logoColor=white)
 ![NextJS](https://img.shields.io/badge/NextJs-F24E1E?style=for-the-badge&logo=nextjs&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
